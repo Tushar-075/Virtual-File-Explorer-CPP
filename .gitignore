@@ -1,0 +1,15 @@
+# Executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Virtual filesystem save file
+filesystem.txt
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
